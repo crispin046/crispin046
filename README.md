@@ -1,5 +1,5 @@
 👋 Hi, I’m @crispin046
-I'm Crispin Oigara, a data science and analytics enthusiast currently pursuing my studies at JKUAT Karen Campus. I'm fascinated by how data can tell powerful stories and reveal insights that drive better decisions. My goal is to become a well-rounded data scientist, capable of leveraging data to solve complex challenges in diverse fields.
+I'm Crispin Oigara, a data science and analytics enthusiast currently pursuing my studies at Jomo Kenyatta University of Agriculture and Technology Karen Campus. I'm fascinated by how data can tell powerful stories and reveal insights that drive better decisions. My goal is to become a well-rounded data scientist, capable of leveraging data to solve complex challenges in diverse fields.
 
 👀 I’m interested in data science and analytics
 My interests span various areas within data science and analytics, including data visualization, machine learning, predictive modeling, and statistical analysis. I’m especially drawn to projects that require transforming raw data into actionable insights, designing dashboards, and automating workflows. Additionally, I'm intrigued by natural language processing (NLP) and how AI can be used to make data more accessible and useful.
