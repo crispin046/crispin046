@@ -1,25 +1,84 @@
-👋 Hi, I’m @crispin046
-I'm Crispin Oigara, a data science and analytics enthusiast currently pursuing my studies at Jomo Kenyatta University of Agriculture and Technology Karen Campus. I'm fascinated by how data can tell powerful stories and reveal insights that drive better decisions. My goal is to become a well-rounded data scientist, capable of leveraging data to solve complex challenges in diverse fields.
+# 👋 Hi, I'm Crispin Oigara (crispin046)
 
-👀 I’m interested in data science and analytics
-My interests span various areas within data science and analytics, including data visualization, machine learning, predictive modeling, and statistical analysis. I’m especially drawn to projects that require transforming raw data into actionable insights, designing dashboards, and automating workflows. Additionally, I'm intrigued by natural language processing (NLP) and how AI can be used to make data more accessible and useful.
+**Technology & Innovation Professional | Data Science | Digital Transformation | AI & Analytics**
 
-🌱 I’m currently learning Power BI
-As part of my journey to become a skilled data analyst, I’m focusing on Power BI, a powerful tool for creating interactive dashboards and reports. I’m learning how to connect, transform, and model data in Power BI to build insightful visualizations that can help drive strategic decisions. This complements my skills in other tools like Python and SQL, allowing me to provide end-to-end data solutions.
+---
 
-💞️ I’m looking to collaborate on data-driven projects, data visualization, and analytics initiatives
-I’m open to working on projects that involve data exploration, analysis, and visualization. I would love to collaborate with others to create impactful data stories, analyze trends, and develop machine learning models. If you have a project that requires digging into data, finding patterns, and telling its story visually, I’d be excited to team up. I also enjoy combining my skills in data science with content creation, so I’m open to projects that need a creative edge.
+## 💡 Tagline
 
-📫 How to reach me:
+> “Blending data, innovation, and AI to drive smarter business decisions and sustainable growth.”
 
-LinkedIn:https://www.linkedin.com/in/crispin-oigara-68496b293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+---
 
-Email: crispinoigara@gmail.com 
-I’d be happy to connect with professionals, mentors, and fellow students to exchange ideas, discuss data-driven projects, or explore potential collaborations.
+## ⚡ About Me
 
+- 🚀 Driving digital transformation with a passion for data science, analytics, and innovative AI applications
+- 🏆 Skilled in designing data-driven business solutions for analytics and innovation challenges
+- 🌍 Advocate for global collaboration and digital trade, especially empowering emerging markets
+- 🤖 Regular participant in AI hackathons & innovation challenges
 
-😄 Pronouns: He/Him
+---
 
-⚡ Fun fact: I enjoy exploring nature and discovering new places!
-When I’m not working with data, you’ll likely find me outdoors, enjoying the beauty of nature and traveling to new destinations. I believe that exploring diverse environments inspires creativity and brings fresh perspectives to my work.
+## ⚙️ Skills & Technologies
 
+**Data Science & Analytics**
+- Python (Pandas, NumPy, scikit-learn)
+- SQL, Power BI, Excel, Google Sheets
+
+**AI & Machine Learning**
+- Predictive Analytics, ML Modeling
+- Generative AI (Gemini, GPT)
+
+**Business Intelligence**
+- Data Visualization, Dashboarding, KPI Tracking
+
+**Workflow Automation**
+- n8n, Zapier, Google Apps Script
+
+**Cloud & Tools**
+- Google Cloud, GitHub, Streamlit, Google Genkit
+
+---
+
+## 🚀 Featured Projects
+
+- **Aavalabs Data Analyst 2025 Test**  
+  Built full Excel/Sheets dashboards and executive summary analyzing ES market performance.
+
+- **Solana Skill Sprint ML Challenge**  
+  Created ML model to predict token success using early transaction data.
+
+- **AI Talent Matcher**  
+  Prototype to intelligently match job seekers and roles using skills and portfolio data.
+
+- **Smart Competitive Intelligence Dashboard**  
+  AI-powered dashboard to automate market and competitor insights.
+
+---
+
+## 🏆 Highlights
+
+- Participant in **UK–Kenya AI Challenge Fund 2025** — Proposal: AI Digital Twin for Infrastructure Systems
+- Skilled in creating data-driven business solutions for analytics and innovation challenges
+- Passionate about bridging global collaboration through technology and digital trade
+
+---
+
+## 🎯 Fun Facts
+
+- Enjoys working on AI workflow automations
+- Loves exploring how digital systems can empower emerging markets
+- Regularly participates in AI hackathons and innovation challenges
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/crispin-oigara)
+- [GitHub](https://github.com/crispin046)
+
+---
+
+<!--
+✨ Always exploring new ways to blend data, AI, and technology for impactful solutions!
+-->
