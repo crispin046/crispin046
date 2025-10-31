@@ -1,84 +1,147 @@
-# 👋 Hi, I'm Crispin Oigara (crispin046)
 
-**Technology & Innovation Professional | Data Science | Digital Transformation | AI & Analytics**
+<!-- Animated Banner with Typing & Data Scientist GIF (working version) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=00C2CB&center=true&vCenter=true&width=800&lines=Hi,+I'm+Crispin+Oigara;Data+Scientist+%7C+AI+and+Innovation+Professional;Transforming+Data+into+Actionable+Insights" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Data Scientist Typing Animation"/>
+</p>
+
+
 
 ---
 
-## 💡 Tagline
+<h3 align="center">🚀 Technology & Innovation Professional | Data Science | AI & Analytics | Digital Transformation</h3>
 
+<p align="center">
+  <img src="https://github.com/crispin046/crispin046/blob/main/assets/banner.gif" width="850" alt="Profile Banner"/>
+</p>
+
+---
+
+## 💡 Tagline  
 > “Blending data, innovation, and AI to drive smarter business decisions and sustainable growth.”
 
 ---
 
-## ⚡ About Me
+## 🧭 About Me  
 
-- 🚀 Driving digital transformation with a passion for data science, analytics, and innovative AI applications
-- 🏆 Skilled in designing data-driven business solutions for analytics and innovation challenges
-- 🌍 Advocate for global collaboration and digital trade, especially empowering emerging markets
-- 🤖 Regular participant in AI hackathons & innovation challenges
-
----
-
-## ⚙️ Skills & Technologies
-
-**Data Science & Analytics**
-- Python (Pandas, NumPy, scikit-learn)
-- SQL, Power BI, Excel, Google Sheets
-
-**AI & Machine Learning**
-- Predictive Analytics, ML Modeling
-- Generative AI (Gemini, GPT)
-
-**Business Intelligence**
-- Data Visualization, Dashboarding, KPI Tracking
-
-**Workflow Automation**
-- n8n, Zapier, Google Apps Script
-
-**Cloud & Tools**
-- Google Cloud, GitHub, Streamlit, Google Genkit
+- 🚀 Driving **digital transformation** through **AI, data analytics, and automation**  
+- 🧠 Experienced in **predictive modeling, data visualization**, and **insight-driven strategy**  
+- 🌍 Passionate about **AI inclusion & digital trade** in **emerging markets**  
+- 🏆 Regular participant in **AI hackathons & innovation challenges**  
+- 💡 Constant learner exploring **cloud, generative AI, and intelligent systems**
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Tech Stack & Skills  
 
-- **Aavalabs Data Analyst 2025 Test**  
-  Built full Excel/Sheets dashboards and executive summary analyzing ES market performance.
+<details open>
+  <summary><b>🧮 Data Science & Analytics</b></summary>
+  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+  ![Google Sheets](https://img.shields.io/badge/Sheets-34A853?style=for-the-badge&logo=google-sheets)
+</details>
 
-- **Solana Skill Sprint ML Challenge**  
-  Created ML model to predict token success using early transaction data.
+<details>
+  <summary><b>🤖 Machine Learning & AI</b></summary>
+  
+  ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+  ![Generative AI](https://img.shields.io/badge/Generative_AI-000000?style=for-the-badge&logo=openai)
+  ![Google Genkit](https://img.shields.io/badge/Google_Genkit-4285F4?style=for-the-badge&logo=google-cloud)
+</details>
 
-- **AI Talent Matcher**  
-  Prototype to intelligently match job seekers and roles using skills and portfolio data.
+<details>
+  <summary><b>📊 Business Intelligence</b></summary>
+  
+  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+  ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker)
+</details>
 
-- **Smart Competitive Intelligence Dashboard**  
-  AI-powered dashboard to automate market and competitor insights.
+<details>
+  <summary><b>⚙️ Cloud, Workflow & Automation</b></summary>
+  
+  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
+  ![n8n](https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n)
+  ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+</details>
 
 ---
 
-## 🏆 Highlights
+## 🚀 Featured Projects  
 
-- Participant in **UK–Kenya AI Challenge Fund 2025** — Proposal: AI Digital Twin for Infrastructure Systems
-- Skilled in creating data-driven business solutions for analytics and innovation challenges
-- Passionate about bridging global collaboration through technology and digital trade
-
----
-
-## 🎯 Fun Facts
-
-- Enjoys working on AI workflow automations
-- Loves exploring how digital systems can empower emerging markets
-- Regularly participates in AI hackathons and innovation challenges
+| 🧩 Project | 📝 Description | ⚙️ Tech Stack |
+|------------|----------------|---------------|
+| [**Aavalabs Data Analyst 2025 Test**](https://github.com/crispin046/aavalabs-es-market-analysis) | Full Excel/Sheets dashboards analyzing ES market performance with executive insights | Excel, Google Sheets, Power BI |
+| [**Streamlit Supermarket Sales Dashboard**](https://github.com/crispin046/supermarket-sales-dashboard) | Interactive dashboard analyzing supermarket sales with Streamlit | Python, Pandas, Streamlit |
+| [**Solana Skill Sprint: Memcoin ML Prediction**](https://github.com/crispin046/memcoin-ml) | ML model predicting token success from blockchain transaction data | Python, scikit-learn |
+| [**AI Talent Matcher**](https://github.com/crispin046/ai-talent-matcher) | AI model matching job seekers to roles using portfolio embeddings | Python, NLP, Generative AI |
+| [**Smart Competitive Intelligence Dashboard**](https://github.com/crispin046/competitive-insights) | AI-powered market and competitor insights dashboard | Power BI, Streamlit, GPT |
+| [**AI Digital Twin Proposal (UK–Kenya Challenge)**](https://github.com/crispin046/ai-digital-twin) | Conceptualized AI-driven digital twin for infrastructure systems | ML, Simulation, GCP |
 
 ---
 
-## 🌐 Connect with Me
+## 🏆 Highlights  
 
-- [LinkedIn](https://www.linkedin.com/in/crispin-oigara)
-- [GitHub](https://github.com/crispin046)
+- 🧠 Participant — **UK–Kenya AI Challenge Fund 2025** (AI Digital Twin Proposal)  
+- 📊 Creator — **Streamlit Supermarket Dashboard** (Interactive data app built in VS Code)  
+- 🪙 Competitor — **Solana Skill Sprint 2025 (Memcoin ML)**  
+- 🌍 Advocate — **AI for Emerging Market Development & Digital Trade**  
+- 🧩 Ongoing — AI Automation Tools for Analysts (n8n + GenAI)
 
 ---
 
-<!--
-✨ Always exploring new ways to blend data, AI, and technology for impactful solutions!
--->
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=crispin046&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=crispin046&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crispin046&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Dynamic Widgets  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=crispin046&theme=onedark&margin-w=8&margin-h=8&row=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crispin046&theme=tokyo-night" width="95%"/>
+</p>
+
+---
+
+## 🎯 Fun Facts  
+
+- 🧩 Passionate about **AI workflow automations**  
+- 🌍 Exploring how **data systems empower emerging markets**  
+- 🎨 Loves building **interactive dashboards & data stories**  
+
+---
+
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/crispin-oigara"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/crispin046"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Turning data into decisions, and ideas into impact.”</i>
+</p>
